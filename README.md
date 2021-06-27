@@ -1,13 +1,15 @@
 # About
 
-I made a web page which responds to user actions. HTML-DOM manipulation was made via JavaScript. 
+Panels which responds to user actions - mouse clicks. DOM manipulation was made via vanilla JavaScript. 
 
 ## Live demo
 
 
+## GIF 
+
+![project 800x600](https://user-images.githubusercontent.com/23439837/123555077-26b93f80-d78c-11eb-9d05-2cb1e196774c.gif)
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Gained knowledge](#gained-knowledge)
@@ -15,26 +17,18 @@ I made a web page which responds to user actions. HTML-DOM manipulation was made
 * [Status](#status)
 * [Contact](#contact)
 
-## General info
-Virtual Drum Assistant - a web page for drum lovers and enthusiasts or anyone, who wants to give it a go with virtual drums.
-
 ## Technologies
 * HTML5
 * CSS3
-* DOM
 * JavaScript
 
 ## Setup
 All you need is just a web browser and internet access.
 
 ## Gained knowledge
-* HTML structure and the hierarchy of HTML page
 * Basic DOM manipulation via JavaScript:
   * Targeting nodes and its properties and methods
   * Using events for dynamic changes
-
-## Screenshot
-
 
 ## Status
 Project is: _finished_.
