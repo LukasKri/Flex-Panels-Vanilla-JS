@@ -31,7 +31,7 @@ All you need is just a web browser and internet access.
   * Targeting nodes and its properties and methods
   * Using events for dynamic changes
 
-* CSS transitions and transform properties.
+* CSS transitions and transform property.
 
 ## Status
 Project is: _finished_.
