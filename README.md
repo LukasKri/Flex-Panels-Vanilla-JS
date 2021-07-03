@@ -4,7 +4,7 @@ CSS panels which responds to user actions - mouse clicks. DOM manipulation was m
 
 ## Live demo
 
-https://lukaskri.github.io/flex-panels/
+https://lukaskri.github.io/Flex-Panels-Vanilla-JS/
 
 ## GIF 
 
@@ -27,7 +27,7 @@ https://lukaskri.github.io/flex-panels/
 All you need is just a web browser and internet access.
 
 ## Gained knowledge
-* Basic DOM manipulation via JavaScript:
+* Basic DOM (Document Object Model) manipulation via JavaScript:
   * Targeting nodes and its properties and methods
   * Using events for dynamic changes
 
